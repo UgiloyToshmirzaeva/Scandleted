@@ -9,15 +9,15 @@ const faqs = [
   },
   {
     question: 'Delivery',
-    answer: 'Answer for Delivery',
+    answer: 'Just place your order, and we’ll make sure it arrives at your doorstep. Enjoy shopping from the comfort of your home! Happy shopping!',
   },
   {
     question: 'Refunds',
-    answer: 'Answer for Refunds',
+    answer: 'We’re committed to making it right. Your satisfaction is our success! Please note that terms and conditions may apply.',
   },
   {
     question: 'Can I resell wax products at a different price?',
-    answer: 'Answer for reselling',
+    answer: 'We believe in the quality of our products and trust that you will price them in a way that reflects their true value. Happy selling!',
   },
 ];
 
