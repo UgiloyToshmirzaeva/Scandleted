@@ -12,7 +12,7 @@ function App() {
     <Showcase/>
     <Shop/>
     <Features/>
-    <Highlightproduct/>
+    <Highlightproducts/>
     <FAQs/>
     <Footer/>
     </>
