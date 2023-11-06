@@ -1,0 +1,39 @@
+.mainProduct{
+    height: 81.5vh;
+    width: auto;
+    background: #d6af99;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.mainProduct h1{
+    color: #FFF;
+text-align: center;
+font-family: Zilla Slab;
+font-size: 100px;
+font-style: normal;
+font-weight: 900;
+position: absolute;
+letter-spacing: 3.84px;
+top: 3%;
+left: 8.3%;
+
+}
+.mainProduct .second{
+    color: #FFF;
+text-align: center;
+font-family: Zilla Slab;
+font-size: 100px;
+font-style: normal;
+font-weight: 900;
+position: absolute;
+letter-spacing: 3.84px;
+top: 3%;
+left: 55%;
+
+}
