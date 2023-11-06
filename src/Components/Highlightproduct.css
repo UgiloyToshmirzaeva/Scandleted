@@ -8,7 +8,10 @@
     gap: 50px;
     justify-content: center;
     align-items: center;
+    background-color: #d6af99;
     position: relative;
+    box-shadow: 0 10px 0px 12px; 
+    background-image: linear-gradient(358.11deg, #7A6457 3.46%, rgba(170, 155, 147, 0) 43.69%);
 }
 
 .mainProduct h1{
