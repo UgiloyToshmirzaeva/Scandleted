@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.footer {
+    font-family: 'Zilla Slab', serif;
+    color: white;
+    background: var(--complement-ruined-smores, #0C0D12);
+}
+
+.wrap{
+    width: 95%;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+
+
+.footer .wrap .foot1{
+    padding-bottom: 20px auto 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+}
+.footer .wrap .foot1 .box1{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    gap: 2rem;
+}
+.footer .wrap .foot1 .box1 ul li a{
+    color: var(--complement-white, #FFF);
+font-family: Zilla Slab;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 28.8px */
+letter-spacing: 0.54px;
+text-transform: uppercase;
+}
+
+.footer .wrap .foot1 .box2{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    gap: 1rem;
+}
+
+.foot2{
+    padding: 10px auto 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
